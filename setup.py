@@ -9,5 +9,4 @@ setup(
     author_email='martins@mednis.info',
     license='GPL3',
     packages=['myexample'],
-    install_requires=[]
 )
